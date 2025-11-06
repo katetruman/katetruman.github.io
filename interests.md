@@ -1,6 +1,6 @@
-layout: page
+<!--layout: page
 title: "Interests"
-permalink: /interests
+permalink: /interests -->
 
 
 Outside of study, I enjoy reading fantasy, gaming, and baking recipes I can nearly forget are gluten-free.
